@@ -1,0 +1,1 @@
+<template><img class="dougpfp" src="../assets/doug.jpg" style="width:200px"></template>

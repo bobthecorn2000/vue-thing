@@ -1,5 +1,5 @@
 <template>
-  <h1>so vue am i right</h1>
+  <h1>Registration</h1>
   <p>
     One of the core features of Vue.js is its reactivity system, which enables
     automatic data binding between your application's data and the user

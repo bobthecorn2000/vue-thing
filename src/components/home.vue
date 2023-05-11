@@ -1,9 +1,6 @@
 <template>
-  <h1>i wanna go home</h1>
+  <h1>Unleashing Creativity, Empowering Minds: The Honorable Douglas Academy</h1>
   <p>
-    Whether you're a first-time visitor or a regular user of our website, we
-    hope that you find our home page informative, engaging, and easy to use.
-    Thank you for visiting, and please don't hesitate to contact us if you have
-    any questions or feedback!
+ At The Honorable Douglas Academy, we strive to solve problems no one has. With our innovative teaching methods, experienced faculty, and commitment to excellence, we empower our students to face the challenges of tomorrow with confidence. So if you're ready to embark on a journey of discovery and growth, join us at The Honorable Douglas Academy.
   </p>
 </template>

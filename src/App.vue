@@ -6,22 +6,24 @@ import HelloWorld from "./components/HelloWorld.vue";
 <template>
   <header>
     <img
-      alt="Vue logo"
+      alt="dougpepper"
       class="logo"
-      src="@/assets/pog.png"
+      src="@/assets/teacherpepper.webp"
       width="125"
       height="125"
     />
 
     <div class="wrapper">
-      <HelloWorld msg="I FLIPPIN did it!" />
+      <HelloWorld msg="The Honorable Douglas Academy" />
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
-        <RouterLink to="/vue">vue</RouterLink>
-        <RouterLink to="/bio">bio</RouterLink>
-        <RouterLink to="/all">all</RouterLink>
+        <RouterLink to="/registration">Registration</RouterLink>
+        <RouterLink to="/curriculum">Curriculum</RouterLink>
+        <RouterLink to="/bio">Bio</RouterLink>
+        <RouterLink to="/testimonials">Testimonials</RouterLink>
+        
       </nav>
     </div>
   </header>
@@ -74,6 +76,7 @@ nav a:first-of-type {
 
   .logo {
     margin: 0 2rem 0 0;
+      transform: scaleX(-1)
   }
 
   header .wrapper {

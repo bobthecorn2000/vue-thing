@@ -1,0 +1,1 @@
+<template><img class="smile" src="../assets/maxresdefault.jpg" ></template>

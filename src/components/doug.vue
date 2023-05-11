@@ -1,8 +1,14 @@
 <template>
-  <h1>about doug the pog pepper</h1>
-  <p>
-    Meet Doug the Pog Pepper, a sentient bell pepper with a passion for cooking
-    and a love of adventure! Doug grew up on a small farm, where he learned to
+
+
+  <h1 class="pogpepper">About Doug the pog pepper</h1>
+  <p class="pogpepper2">
+    Meet our mascot, Doug the Pog Pepper, a sentient bell pepper with a passion for cooking
+    and a love of adventure! 
+      <br>
+      <br>
+      
+      Doug grew up on a small farm, where he learned to
     appreciate the value of hard work and fresh, locally grown produce. As he
     grew older, he discovered a talent for cooking, and soon became a master
     chef with a unique talent for blending flavors and creating delicious,
@@ -14,7 +20,9 @@
     many new friends, always ready with a new recipe or cooking tip to share.
     When he's not traveling or cooking up a storm in the kitchen, Doug likes to
     spend his time exploring the great outdoors, hiking, camping, and enjoying
-    the beauty of nature. He's also a big believer in sustainable farming
+    the beauty of nature.
+      <br>
+      <br>He's also a big believer in sustainable farming
     practices and is always looking for ways to reduce food waste and promote a
     healthier planet. With his friendly personality, zest for life, and culinary
     expertise, Doug the Pog Pepper is sure to add a little spice to your day!

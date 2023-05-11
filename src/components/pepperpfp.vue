@@ -1,0 +1,1 @@
+<template><img class="pepperpfp" src="../assets/pog.png" style="width:200px"></template>

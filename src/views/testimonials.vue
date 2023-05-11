@@ -1,0 +1,44 @@
+<script setup>
+import bren from "@/components/thumbsupbrennan.vue";
+import testimony from "@/components/testimony1.vue";
+import smilelol from "@/components/dougthumb.vue";
+
+
+</script>
+<template>
+<div class="testimonials">
+<bren/>
+<testimony/>
+    <smilelol></smilelol>
+  
+
+</div>
+</template>
+
+
+
+
+<style>
+.testimonials {
+        display:grid;
+        grid-template-columns: auto 1fr;
+        grid-template-rows: auto 1fr auto auto;
+        grid-gap:15px
+    }
+    .bren {
+        grid-column: 1;
+        grid-row: 1 / span 2;
+    }
+    .pretty {
+        grid-row: 1;
+        grid-column: 2;
+    }
+    .good {
+        grid-row:2;
+        grid-column:2;
+    }
+    .smile {
+               grid-column: 1 /span 2;
+        grid-row: 3 / span 2;
+    }
+</style>

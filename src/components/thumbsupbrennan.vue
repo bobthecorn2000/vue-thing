@@ -1,0 +1,1 @@
+<template><img class="bren" src="../assets/brennan.png" style="width:200px"></template>
